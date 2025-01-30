@@ -1,13 +1,14 @@
 # LearnDevops2025
 This repository is to do practice on my devops learnings
 
-Week 1:
+**Week 1:**
 
 The OSI (Open Systems Interconnection) model is a conceptual framework that describes how different network components communicate with each other. It has 7 layers, each responsible for a specific function in data transmission.
 
 To simplify it, imagine sending a letter via postal service. Each OSI layer represents a step in the process of preparing, sending, delivering, and receiving the letter.
 
 OSI Model Explained with a Real-Life Example (Postal System)
+
 OSI Layer	Real-Life Example (Sending a Letter)	Technical Role
 1. Physical	The postman physically delivers the letter.	Cables, Wi-Fi, or hardware transmitting bits.
 2. Data Link	The envelope ensures correct delivery to the right mailbox.	MAC addresses, Ethernet, and switches ensure correct direct connections.
@@ -16,6 +17,7 @@ OSI Layer	Real-Life Example (Sending a Letter)	Technical Role
 5. Session	The sender and receiver maintain correspondence.	Manages sessions between devices (e.g., keeping a web login active).
 6. Presentation	The recipient understands the language of the letter.	Encryption, compression, and data formatting (e.g., JPEG, ASCII).
 7. Application	The recipient reads and understands the letter.	Web browsers, emails, and applications interact with users.
+
 Breakdown of Each Layer with Simple Terms:
 Physical Layer (Hardware & Transmission)
 
@@ -48,6 +50,8 @@ Application Layer (User Interaction)
 
 The interface that users interact with, like browsers and apps.
 Example: Chrome, Gmail, Skype, and WhatsApp all function at this layer.
+
+
 Summary in Simple Terms:
 Think of sending a letter:
 
