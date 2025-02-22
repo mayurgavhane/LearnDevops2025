@@ -4,7 +4,7 @@ if temp > 40 and forecast != "rainy":
      print ("Enjoy Outdoor")
     
 else:
-    print ("Stay Home")
+    print ("Stay Home and enjoy")
 
 forecast = "sunny"
 
